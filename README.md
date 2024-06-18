@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Andrei
 
+- ⚡ Fun fact: I have a server rack at home with lots of VMs and a personal cloud
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/rokyed/)
+- 🌱 I’m currently learning Zig 
 <!--
 **rokyed/rokyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
